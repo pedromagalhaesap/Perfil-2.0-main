@@ -1,0 +1,5 @@
+/* fontes */
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Passion+One&family=Quicksand:wght@300&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
